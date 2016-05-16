@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.diegoorozco.retopracticas.Main2Activity"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/TituloV2"
+        android:layout_marginTop="25dp"
+        android:textColor="@color/black"
+        android:textSize="30dp"
+        android:layout_marginBottom="15dp"
+        android:gravity="center"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Suma"
+        android:textSize="25dp"
+        android:visibility="gone"
+        android:id="@+id/suma"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Resta"
+        android:textSize="25dp"
+        android:visibility="gone"
+        android:id="@+id/resta"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Multiplicacion"
+        android:textSize="25dp"
+        android:visibility="gone"
+        android:id="@+id/mult"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Division"
+        android:textSize="25dp"
+        android:visibility="gone"
+        android:id="@+id/div"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Concatenacion"
+        android:textSize="25dp"
+        android:visibility="gone"
+        android:id="@+id/concate"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ExtrNumeros"
+        android:textSize="25dp"
+        android:visibility="gone"
+        android:id="@+id/extraNum"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/NumeGenerados"
+        android:textSize="25dp"
+        android:visibility="gone"
+        android:id="@+id/GeneNum"/>
+
+</LinearLayout>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RetoPracticas</string>
+    <string name="Contador">Contador de Aperturas</string>
+    <string name="cuenta">0</string>
+    <string name="Ingresar">Ingresar Texto</string>
+    <string name="bVentana">Abrir Ventana 2</string>
+    <string name="bBorrar">Reiniciar Contador</string>
+    <string name="TituloV2">Resultados</string>
+    <string name="Suma">Suma = 0</string>
+    <string name="Resta">Resta= 0</string>
+    <string name="Multiplicacion"> Multiplicacion = 0</string>
+    <string name="Division">Division = 0</string>
+    <string name="Concatenacion">Concatenacion = 0</string>
+    <string name="ExtrNumeros">Extracion de Numeros= 0</string>
+    <string name="NumeGenerados">Numeros Generados de Letras Ingresadas = 0</string>
+</resources>
